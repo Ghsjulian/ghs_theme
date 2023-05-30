@@ -22,9 +22,9 @@ echo " Please Wait For 10 Seconds To Make The Changes..."|lolcat
 sleep 2.0
 cd
 cd /$HOME
-rm //data/data/com.termux/files/usr/etc/bash.bashrc
+rm /data/data/com.termux/files/usr/etc/bash.bashrc
 cd
-cp -r /data/data/com.termux/files/home/ghs_theme/code/bash.bashrc //data/data/com.termux/files/usr/etc/bash.bashrc
+cp -r /data/data/com.termux/files/home/ghs_theme/code/bash.bashrc /data/data/com.termux/files/usr/etc/bash.bashrc
 sleep 8.0
 echo "Completed, Your Termux Now Looking Awesome"|lolcat
 sleep 1.0
