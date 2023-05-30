@@ -15,7 +15,7 @@ clear
 echo " "
 echo " "
 echo " "echo " "echo " "echo " "echo " "echo " "echo " "echo " "echo " "echo " "echo " "echo " "echo " "echo " "echo " "echo " "
-
+cd /$HOME
 python /data/data/com.termux/files/home/ghs_theme/index.py
 
 sleep 1.0
