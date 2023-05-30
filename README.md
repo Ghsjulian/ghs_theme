@@ -7,7 +7,7 @@
 
 </p>
 <p align="center">
-<a href="https://ghsjulian.netlify.app/"><img title="Ghs-Theme" src="https://1.bp.blogspot.com/-lyW6zU967fQ/YCLR5v9IqaI/AAAAAAAAAK8/h24GbpmFmjAkZmYE4t6ZKlFAHiE2OU2lQCLcBGAsYHQ/s1280/20210209_191606_0000.png"></a>
+<a href="https://ghsjulian.netlify.app/"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Ghsjulian"><img title="Github" src="https://img.shields.io/badge/Github-AliByte01-brightgreen?style=for-the-badge&logo=github"></a>
