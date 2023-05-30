@@ -2,7 +2,7 @@ command_not_found_handle() {
  /data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
 }
 
-PS1='__ghs>> '|lolcat
+PS1='__ghs>> '
 
 echo -e "\e[96m"
 
@@ -32,3 +32,5 @@ echo "IF YOU ARE INTERESTED IN DONATION"|lolcat
 echo "YOU CAN DONATE SOME SMALL AMOUNT OF EITHER"|lolcat
 
 figlet -f small "GHS JULIAN"|lolcat
+
+cd
